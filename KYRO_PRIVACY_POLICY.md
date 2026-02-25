@@ -1,8 +1,8 @@
 # Privacy Policy for Kyro
 
-**Last Updated:** January 27, 2026
+**Last Updated:** February 25, 2026
 
-**Developer:** Boris Yip  
+**Developer:** Top Brand Studio  
 **Contact:** kyro.back.app@gmail.com
 
 ---
@@ -16,19 +16,17 @@ This Privacy Policy describes how Kyro ("we," "our," or "us") collects, uses, an
 ## Information We Collect
 
 ### Information You Provide
-- **Account Information:** Name, email address (if you create an account)
-- **Profile Data:** Pain areas, fitness goals, exercise preferences
-- **Usage Data:** Exercises completed, check-in frequency, progress tracking
+- **Profile Data:** Name, pain areas, fitness goals, exercise preferences
+- **Usage Data:** Exercises completed, stretch frequency, progress tracking
 
 ### Automatically Collected Information
 - **Device Information:** Device type, operating system version
 - **Usage Analytics:** App interactions, feature usage, session duration
-- **Camera Data:** Posture photos (stored locally on your device only)
 
 ### Information We Do NOT Collect
-- We do NOT upload your posture photos to our servers
 - We do NOT sell your personal information to third parties
 - We do NOT track your location
+- We do NOT require account creation
 
 ---
 
@@ -37,8 +35,8 @@ This Privacy Policy describes how Kyro ("we," "our," or "us") collects, uses, an
 We use collected information to:
 - Provide and improve the Kyro app experience
 - Personalize exercise recommendations
-- Track your progress and posture improvements
-- Send you notifications about exercises and check-ins (if you opt-in)
+- Track your progress and stretching consistency
+- Send you notifications about exercises and stretches (if you opt-in)
 - Analyze app performance and fix bugs
 - Process subscription payments (via Apple/Google)
 
@@ -47,9 +45,9 @@ We use collected information to:
 ## Data Storage and Security
 
 ### Local Storage
-- **Posture Photos:** Stored only on your device, never uploaded
-- **Exercise History:** Stored locally and optionally synced to our secure servers
-- **Personal Data:** Encrypted both in transit and at rest
+- **Exercise History:** Stored locally on your device
+- **Personal Preferences:** Stored locally on your device
+- **Data Protection:** Encrypted both in transit and at rest
 
 ### Cloud Storage
 - We use industry-standard encryption (AES-256)
@@ -77,7 +75,7 @@ We use the following third-party services:
 
 You have the right to:
 - **Access:** Request a copy of your data
-- **Delete:** Request deletion of your account and data
+- **Delete:** Request deletion of your data
 - **Correct:** Update incorrect information
 - **Opt-Out:** Disable notifications and analytics
 - **Export:** Download your exercise history
@@ -88,9 +86,9 @@ To exercise these rights, contact us at kyro.back.app@gmail.com
 
 ## Data Retention
 
-- **Active Accounts:** Data retained while your account is active
-- **Deleted Accounts:** Data permanently deleted within 30 days
-- **Posture Photos:** Never leave your device unless you explicitly share them
+- **Active Users:** Data retained while you actively use the app
+- **Inactive Users:** Data permanently deleted after 12 months of inactivity
+- **Deletion Requests:** Data permanently deleted within 30 days of request
 
 ---
 
@@ -104,7 +102,6 @@ Kyro is not intended for users under 13 years old. We do not knowingly collect i
 
 We may update this Privacy Policy periodically. We will notify you of significant changes via:
 - In-app notification
-- Email (if you provided one)
 - Updated "Last Updated" date at the top of this policy
 
 ---
@@ -143,7 +140,7 @@ Our legal basis for processing: Consent and legitimate interests.
 If you have questions about this Privacy Policy or your data:
 
 **Email:** kyro.back.app@gmail.com  
-**Developer:** Boris Yip
+**Developer:** Top Brand Studio
 
 We will respond to all requests within 30 days.
 
