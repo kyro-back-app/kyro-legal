@@ -1,8 +1,8 @@
 # Terms of Service for Kyro
 
-**Last Updated:** January 27, 2026
+**Last Updated:** February 25, 2026
 
-**Developer:** Boris Yip  
+**Developer:** Top Brand Studio  
 **Contact:** kyro.back.app@gmail.com
 
 ---
@@ -16,10 +16,11 @@ By downloading, installing, or using Kyro ("the App"), you agree to be bound by 
 ## 2. Description of Service
 
 Kyro is a mobile application that provides:
-- Posture assessment and tracking
-- Guided exercise routines for back and neck pain relief
-- Personalized exercise programs
-- Progress tracking and reminders
+- Guided stretching exercises for wrist, neck, shoulder, and back pain relief
+- 45 exercises with real video demonstrations
+- 28 structured stretching plans for gamers
+- Quick Stretch mode for between-match routines
+- Progress tracking, streaks, and reminders
 
 ---
 
@@ -27,18 +28,17 @@ Kyro is a mobile application that provides:
 
 ### Free Tier
 - Access to 6 basic exercises
-- Weekly posture check-ins
 - Basic progress tracking
 
 ### Pro Subscription
-- Access to 70+ exercises
-- 30 personalized programs
-- Unlimited posture check-ins
-- Advanced analytics
+- Access to all 45 exercises
+- All 28 stretching plans
+- Full Quick Stretch access
+- Complete progress tracking
 
 ### Pricing
 - Monthly: $6.99/month
-- Annual: $49.99/year
+- Annual: $39.99/year
 
 ### Billing
 - Subscriptions are billed through Apple App Store or Google Play Store
@@ -47,7 +47,7 @@ Kyro is a mobile application that provides:
 - Cancellation must be done through your App Store/Play Store account
 
 ### Free Trial
-- 7-day free trial available for new subscribers
+- 3-day free trial available on the annual plan for new subscribers
 - Cancel anytime during trial to avoid charges
 - Automatic renewal after trial unless cancelled
 
@@ -58,26 +58,10 @@ Kyro is a mobile application that provides:
 
 ---
 
-## 4. User Accounts
-
-### Account Creation
-- You may use Kyro without creating an account (Free tier)
-- Pro features require account creation
-- You must provide accurate information
-- You are responsible for maintaining account security
-
-### Account Termination
-- You may delete your account at any time in Settings
-- We may terminate accounts that violate these Terms
-- Upon termination, your data will be deleted within 30 days
-
----
-
-## 5. User Conduct
+## 4. User Conduct
 
 You agree NOT to:
 - Use the App for any illegal purpose
-- Share your account credentials with others
 - Attempt to hack, reverse engineer, or decompile the App
 - Upload malicious content or viruses
 - Abuse customer support or contact channels
@@ -85,7 +69,7 @@ You agree NOT to:
 
 ---
 
-## 6. Medical Disclaimer
+## 5. Medical Disclaimer
 
 ### NOT Medical Advice
 - Kyro provides general fitness and wellness information
@@ -106,18 +90,12 @@ You agree NOT to:
 
 ---
 
-## 7. Intellectual Property
+## 6. Intellectual Property
 
 ### Ownership
-- All content in Kyro (exercises, programs, designs, code) is owned by Boris Yip
+- All content in Kyro (exercises, programs, designs, code) is owned by Top Brand Studio
 - Kyro name, logo, and mascot are trademarks
 - You receive a limited license to use the App, not ownership
-
-### User Content
-- You retain ownership of photos you take within the App
-- By using the App, you grant us permission to store photos locally on your device
-- We do NOT claim ownership of your photos
-- Photos are never uploaded to our servers without your explicit consent
 
 ### Restrictions
 - You may NOT copy, distribute, or modify App content
@@ -126,22 +104,7 @@ You agree NOT to:
 
 ---
 
-## 8. Camera and Photo Usage
-
-### Local Storage Only
-- Posture photos are stored ONLY on your device
-- Photos are NOT uploaded to our servers
-- Photos are NOT shared with third parties
-- You can delete photos at any time in the App
-
-### Your Control
-- You control when photos are taken
-- You control when photos are deleted
-- Photos are used only for posture analysis within the App
-
----
-
-## 9. Limitation of Liability
+## 7. Limitation of Liability
 
 **TO THE MAXIMUM EXTENT PERMITTED BY LAW:**
 
@@ -154,16 +117,16 @@ You agree NOT to:
 
 ---
 
-## 10. Indemnification
+## 8. Indemnification
 
-You agree to indemnify and hold harmless Boris Yip from any claims, damages, or expenses (including legal fees) arising from:
+You agree to indemnify and hold harmless Top Brand Studio from any claims, damages, or expenses (including legal fees) arising from:
 - Your use of the App
 - Your violation of these Terms
 - Your violation of any third-party rights
 
 ---
 
-## 11. Changes to Terms
+## 9. Changes to Terms
 
 We may modify these Terms at any time. Changes will be effective:
 - Immediately upon posting in the App
@@ -173,11 +136,11 @@ Continued use of the App after changes = acceptance of new Terms.
 
 ---
 
-## 12. Termination
+## 10. Termination
 
 ### By You
 - Cancel subscription through App Store/Play Store
-- Delete your account in App Settings
+- Delete the App from your device
 
 ### By Us
 - We may terminate access for Terms violations
@@ -186,7 +149,7 @@ Continued use of the App after changes = acceptance of new Terms.
 
 ---
 
-## 13. Governing Law
+## 11. Governing Law
 
 These Terms are governed by the laws of:
 - **Province of British Columbia, Canada**
@@ -195,7 +158,7 @@ Any disputes will be resolved in the courts of British Columbia.
 
 ---
 
-## 14. Dispute Resolution
+## 12. Dispute Resolution
 
 ### Informal Resolution
 - Contact us first at kyro.back.app@gmail.com
@@ -208,7 +171,7 @@ Any disputes will be resolved in the courts of British Columbia.
 
 ---
 
-## 15. Severability
+## 13. Severability
 
 If any provision of these Terms is found invalid or unenforceable:
 - That provision will be modified to the minimum extent necessary
@@ -216,19 +179,19 @@ If any provision of these Terms is found invalid or unenforceable:
 
 ---
 
-## 16. Entire Agreement
+## 14. Entire Agreement
 
-These Terms constitute the entire agreement between you and Boris Yip regarding Kyro, superseding any prior agreements.
+These Terms constitute the entire agreement between you and Top Brand Studio regarding Kyro, superseding any prior agreements.
 
 ---
 
-## 17. No Waiver
+## 15. No Waiver
 
 Our failure to enforce any right or provision does not constitute a waiver of that right or provision.
 
 ---
 
-## 18. Third-Party Services
+## 16. Third-Party Services
 
 ### App Store/Play Store
 - Your use of Apple App Store / Google Play Store is subject to their terms
@@ -240,25 +203,25 @@ Our failure to enforce any right or provision does not constitute a waiver of th
 
 ---
 
-## 19. Export Compliance
+## 17. Export Compliance
 
 You agree to comply with all export laws and restrictions of your country.
 
 ---
 
-## 20. Age Requirement
+## 18. Age Requirement
 
 You must be at least 13 years old to use Kyro. Users under 18 should have parental consent.
 
 ---
 
-## 21. Accessibility
+## 19. Accessibility
 
 We strive to make Kyro accessible to all users. If you experience accessibility issues, contact us at kyro.back.app@gmail.com.
 
 ---
 
-## 22. Feedback
+## 20. Feedback
 
 If you provide feedback or suggestions about Kyro:
 - We may use them without obligation to you
@@ -266,18 +229,18 @@ If you provide feedback or suggestions about Kyro:
 
 ---
 
-## 23. Contact Information
+## 21. Contact Information
 
 For questions about these Terms:
 
 **Email:** kyro.back.app@gmail.com  
-**Developer:** Boris Yip
+**Developer:** Top Brand Studio
 
 We will respond within 7 business days.
 
 ---
 
-## 24. Acknowledgment
+## 22. Acknowledgment
 
 By using Kyro, you acknowledge that:
 - You have read and understood these Terms
@@ -287,5 +250,3 @@ By using Kyro, you acknowledge that:
 ---
 
 **End of Terms of Service**
-
-**Thank you for using Kyro! 🌟**
